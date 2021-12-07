@@ -15,4 +15,4 @@ services:
   database:
    image: redis
    ports:
-     - "5555:55"
+     - "6379:6379"
