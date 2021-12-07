@@ -97,4 +97,20 @@ Results are accepted through pull requests, don`t forget to add instruction in R
 
 **Notice:** Pull requests opened on private repositories remain private.
 
+How we choose winner?
+---
+We award points for the following actions:
+
+Points |Raising rights to root | Escape from the container| Implemented via third party exploit| Written own exploit| Third party shellcode implemented| Your shellcode is written| Form report| Report out of shape| Video optional
+---|---|---|---|---|---|---|---|---|---
+cve-2015-1427|1*|1*|1*|2|1|2|1*|-2|1
+cve-2015-3306|1*|1|1|2|1|2|1*|-2|1
+cve-2016-10033|1*|1|1|2|1|2|1*|-2|1
+cve-2019-5736|1*|1*|1*|2|1|2|1*|-2|1
+tomcat|1*|1*|1*|2|1|2|1*|-2|1
+website|1*|1*|1*|2|1|2|1*|-2|1
+kali|1*|1*|1*|2|1|2|1*|-2|1
+
+The **minimum** requirements are marked with *, the **minimum** number of points is 12. 
+
 **Good luck!**
